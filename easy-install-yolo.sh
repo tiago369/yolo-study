@@ -11,6 +11,12 @@ sudo apt-get update
 sudo apt-get -y install cuda
 #Restart Ubuntu after CUDA installed
 
+Install cuDNN
+Go to https://developer.nvidia.com/rdp/cudnn-archive
+Use the next comand to install the pkg
+$ sudo dpkg -i <name-of-the-.deb-archive>
+
+
 # Install
 
 git clone https://github.com/pjreddie/darknet.git
