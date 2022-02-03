@@ -1,1 +1,5 @@
 .vscode
+cuda-repo-ubuntu2004-11-6-local_11.6.0-510.39.01-1_amd64.deb
+cuda-ubuntu1804.pin
+darknet/
+cudnn-local-repo-ubuntu2004-8.3.1.22_1.0-1_amd64.deb
